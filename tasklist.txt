@@ -1,3 +1,8 @@
+2021-04-08 to 2021-04-09
+HW) Kaggle 숙제 Mushroom Logistics
+(https://www.kaggle.com/uciml/mushroom-classification)
+
+
 2021-04-10
 HW) Kaggle 숙제 House advanced regression problem
 (https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
