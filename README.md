@@ -1,4 +1,4 @@
-# Kaggle_task
+# Kaggle Tutorials
 
 ## Competitions
 -----
@@ -14,6 +14,20 @@
 * Heart Disease UCI
 * Pima Indians Diabetes Database
 * Skin Cancer MNIST: HAM10000
+
+## Courses
+-----
+* Intro to SQL
+
+- [x] Getting Start with SQL and BigQuery
+- [x] Select, From & Where
+- [x] Group By, Having & Count
+- [ ] Order By
+- [ ] As & With
+- [ ] Joining Data
+
+
+
 
 ## Command(Kaggle API)
 ```
