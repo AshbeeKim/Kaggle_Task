@@ -22,7 +22,7 @@
 - [x] Getting Start with SQL and BigQuery
 - [x] Select, From & Where
 - [x] Group By, Having & Count
-- [ ] Order By
+- [x] Order By
 - [ ] As & With
 - [ ] Joining Data
 
