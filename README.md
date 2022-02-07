@@ -23,7 +23,7 @@
 - [x] Select, From & Where
 - [x] Group By, Having & Count
 - [x] Order By
-- [ ] As & With
+- [x] As & With
 - [ ] Joining Data
 
 
